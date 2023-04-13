@@ -44,7 +44,6 @@ Erreur : Opérateur non pris en charge
 
 Si vous entrez des nombres décimaux ou des caractères non numériques comme arguments pour [NOMBRE1] ou [NOMBRE2], le programme affichera :
 
-
 Erreur : Les nombres doivent être entiers
 
 Cela garantit que le programme fonctionne uniquement avec des nombres entiers et les opérations mathématiques spécifiées.
