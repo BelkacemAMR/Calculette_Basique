@@ -20,27 +20,31 @@ Exemple d'utilisation:
 
 Voici un exemple d'utilisation de la calculatrice :
 
- 
+```python 
 python calculatrice.py + 5 3
+```
 
 Ce qui affichera :
 
-
+```python
 Résultat : 8
+```
 
 Messages d'erreur
 Le programme prend en compte les erreurs suivantes :
 
 Si vous ne spécifiez pas au moins trois paramètres, un message d'aide sera affiché :
 
-
+```python
 Usage: python calculatrice.py [OPERATEUR] [NOMBRE1] [NOMBRE2]
+```
 
 Si vous entrez un opérateur non pris en charge, le programme affichera :
 
 
-
+```python
 Erreur : Opérateur non pris en charge
+```
 
 Si vous entrez des nombres décimaux ou des caractères non numériques comme arguments pour [NOMBRE1] ou [NOMBRE2], le programme affichera :
 
