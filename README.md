@@ -1,22 +1,23 @@
 # Calculette_Basique
 
-Calculatrice en Python:
+## Calculatrice en Python:
 
 Ce programme est une calculatrice simple en Python qui prend en charge les opérations suivantes : addition (+), soustraction (-), multiplication (*), division (/), modulo (%) et exponentiation (^). Les paramètres d'entrée doivent être des nombres entiers.
 
-Utilisation:
+## Utilisation:
 
 Pour utiliser cette calculatrice, exécutez le fichier calculatrice.py en utilisant Python 3.
 
 La syntaxe pour exécuter le programme est la suivante :
 
-
+```PYTHON
 python calculatrice.py [OPERATEUR] [NOMBRE1] [NOMBRE2]
+```
 
 [OPERATEUR] : L'opérateur mathématique que vous souhaitez utiliser (+, -, *, /, %, ^).
 [NOMBRE1] et [NOMBRE2] : Les deux nombres entiers sur lesquels vous souhaitez effectuer l'opération.
 
-Exemple d'utilisation:
+## Exemple d'utilisation:
 
 Voici un exemple d'utilisation de la calculatrice :
 
@@ -30,7 +31,7 @@ Ce qui affichera :
 Résultat : 8
 ```
 
-Messages d'erreur
+## Messages d'erreur
 Le programme prend en compte les erreurs suivantes :
 
 Si vous ne spécifiez pas au moins trois paramètres, un message d'aide sera affiché :
