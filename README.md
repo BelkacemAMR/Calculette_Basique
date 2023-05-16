@@ -11,7 +11,7 @@ Pour utiliser cette calculatrice, exécutez le fichier calculatrice.py en utilis
 La syntaxe pour exécuter le programme est la suivante :
 
 ```PYTHON
-python calculatrice.py [OPERATEUR] [NOMBRE1] [NOMBRE2]
+python main.py [OPERATEUR] [NOMBRE1] [NOMBRE2]
 ```
 
 [OPERATEUR] : L'opérateur mathématique que vous souhaitez utiliser (+, -, *, /, %, ^).
@@ -22,7 +22,7 @@ python calculatrice.py [OPERATEUR] [NOMBRE1] [NOMBRE2]
 Voici un exemple d'utilisation de la calculatrice :
 
 ```python 
-python calculatrice.py + 5 3
+python main.py + 5 3
 ```
 
 Ce qui affichera :
@@ -37,7 +37,7 @@ Le programme prend en compte les erreurs suivantes :
 Si vous ne spécifiez pas au moins trois paramètres, un message d'aide sera affiché :
 
 ```python
-Usage: python calculatrice.py [OPERATEUR] [NOMBRE1] [NOMBRE2]
+Usage: python main.py [OPERATEUR] [NOMBRE1] [NOMBRE2]
 ```
 
 Si vous entrez un opérateur non pris en charge, le programme affichera :
