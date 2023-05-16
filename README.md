@@ -6,7 +6,7 @@ Ce programme est une calculatrice simple en Python qui prend en charge les opér
 
 ## Utilisation:
 
-Pour utiliser cette calculatrice, exécutez le fichier calculatrice.py en utilisant Python 3.
+Pour utiliser cette calculatrice, exécutez le fichier 'main.py' en utilisant Python 3.
 
 La syntaxe pour exécuter le programme est la suivante :
 
